@@ -1,4 +1,4 @@
-![image](https://github.com/SanthoshThiru/Find-the-best-fit-line-using-Least-Squares-Method/assets/148958618/084108f7-6592-48b3-acd9-b0eefda00582)# Implementation of Univariate Linear Regression
+# Implementation of Univariate Linear Regression
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
